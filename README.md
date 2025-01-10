@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gry_hacker" target="blank"><img src="https://img.shields.io/twitter/follow/gry_hacker?logo=twitter&style=for-the-badge" alt="gry_hacker" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rakibmia7254.github.io/portfolio/](https://rakibmia7254.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://rakib.is-a.dev/)
 
 - 📫 How to reach me **rakib4ggp@gmail.com**
 
